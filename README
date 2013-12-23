@@ -1,0 +1,8 @@
+
+This is a restaurant meal ordering system.
+Authored in Java 
+
+The interface has been presented without the database implementation. The programmer or the end-user is liable to use the programming fragment by their own.
+
+Run java -jar RestaurantOrderingSystem.jar to view the outlooks of the system
+
