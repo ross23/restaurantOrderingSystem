@@ -1,0 +1,413 @@
+
+
+
+
+
+RESTAURANT 
+POSSYSTEM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table of Contents
+1. Theoretical knowledge	4
+1.1 What is Restaurant Management System	4
+1.2 What is Management Information System	4
+1.3 What is Point of Sale or Checkout System	4
+1.4 Networking with touch screen	4
+1.5 Touch Screen Technology	4
+1.6 Characteristics of touch screen	4
+1.6.1 Why touch screen	4
+1.6.2 Design consideration	4
+1.6.2.1 Target size	4
+1.6.2.2 Pointing strategy	4
+1.6.2.3 Software keyboard layout	4
+1.6.2.4 Viewing angle and operation angle   	4
+1.6.2.5 Scrolling strategy	4
+1.6.2.6 Hand and arm movement	4
+1.6.2.7 Obstacle	4
+1.6.2.8 Feedback	4
+1.7 Impact of touch screen based system	4
+2. Development methodology	5
+2.1 Software development	5
+2.2 System development	5
+2.3 Development tools	5
+2.3.1 Java	5
+2.3.2 MySQL	5
+2.3.3 Basic design concept 	5
+3. System Background	6
+3.1 Hardware	6
+3.1.1 Touch screen components	6
+3.2 Software	6
+3.3 Network	6
+3.4 e Mobile	6
+3.5 Configuration	6
+3.6 Core modules	6
+3.7 Graphical User Interface Limitations	6
+3.8 Memory footprint 	6
+4. Restaurant Ordering System	7
+4.1 Working strategies and flowchart in a 5 star restaurant	7
+4.2 Logic and design	7
+4.3 Programming and GUI Interface	7
+4.3.1 Landing interface	7
+4.3.2 Service module	7
+4.3.3 Admin module	7
+4.3.4 Host module	7
+4.4 Prototype delivery	7
+4.5 Feedback	7
+4.6 Alpha release	7
+5. Maintenance and Management	8
+5.1 Maintenance	8
+5.2 Management	8
+6. Backup	9
+6.1 Real time	9
+6.2 Scheduled backup to the data wire-house	9
+6.3 Manual backup	9
+7. Disaster management	10
+8. Limitation of the Restaurant Ordering System	11
+References 	12
+Index	13
+Glossary	13
+
+
+
+
+
+1. Theoretical knowledge
+1.1 What is Restaurant Management System
+1.2 What is Management Information System
+1.3 What is Point of Sale or Checkout System
+1.4 Networking with touch screen
+1.5 Touch Screen Technology
+1.6 Characteristics of touch screen
+1.6.1 Why touch screen
+1.6.2 Design consideration
+1.6.2.1 Target size
+1.6.2.2 Pointing strategy
+1.6.2.3 Software keyboard layout
+1.6.2.4 Viewing angle and operation angle	  
+1.6.2.5 Scrolling strategy
+1.6.2.6 Hand and arm movement
+1.6.2.7 Obstacle
+1.6.2.8 Feedback
+1.7 Impact of touch screen based system
+ 
+
+2. Development methodology
+2.1 Software development
+2.2 System development
+2.3 Development tools
+2.3.1 Java
+2.3.2 MySQL
+2.3.3 Basic design concept 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3. System Background
+3.1 Hardware
+3.1.1 Touch screen components
+3.2 Software
+3.3 Network
+3.4 e Mobile
+3.5 Configuration
+3.6 Core modules
+3.7 Graphical User Interface Limitations
+3.8 Memory footprint 
+
+
+4. Restaurant Ordering System
+4.1 Working strategies and flowchart in a 5 star restaurant
+4.2 Logic and design
+4.3 Programming and GUI Interface
+4.3.1 Landing interface
+4.3.2 Service module
+4.3.3 Admin module
+4.3.4 Host module
+4.4 Prototype delivery
+4.5 Feedback
+4.6 Alpha release
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Maintenance and Management
+5.1 Maintenance
+5.2 Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6. Backup
+6.1 Real time
+6.2 Scheduled backup to the data wire-house
+6.3 Manual backup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Disaster management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Limitation of the Restaurant Ordering System
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Index
+
+
+
+
+
+Glossary
+	Restaurant
+	System
+	Management
+	
+
